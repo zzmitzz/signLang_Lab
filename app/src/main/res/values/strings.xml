@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HIUHIU</string>
+    <string name="pslr">pSLR</string>
+    <string name="please_select">Please Select</string>
+    <string name="in_what_way_do_you_want_to_see_our_instructions">In what way do you want to see our instructions?</string>
+    <string name="written_language">Written Language</string>
+    <string name="by_sign_language">Sign Language</string>
+    <string name="sign_in">Sign In</string>
+</resources>
